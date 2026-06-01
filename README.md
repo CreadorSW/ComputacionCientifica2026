@@ -17,4 +17,4 @@
 - [lunes 18 de mayo](https://colab.research.google.com/drive/172nzk6i7zbVthJjnX1jqMk1WL3BjH7-C?usp=sharing)
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 25-05-2026 10:05:26 zona horaria UTC-03:00
+Última actualización pública: 01-06-2026 14:22:24 zona horaria UTC-03:00
