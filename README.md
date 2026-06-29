@@ -16,6 +16,7 @@
 - [lunes 04 de mayo](https://colab.research.google.com/drive/1bFGMDlbz_LAEzzo172M4gOYy2Fh9IwyC?usp=sharing)
 - [lunes 18 de mayo](https://colab.research.google.com/drive/172nzk6i7zbVthJjnX1jqMk1WL3BjH7-C?usp=sharing)
 - [lunes 01 de junio](https://colab.research.google.com/drive/1NdrPnBNlOCD8_-_m0aXiMEixQ7nYZOhy?usp=sharing)
+- [lunes 29 de junio](https://colab.research.google.com/drive/1NdrPnBNlOCD8_-_m0aXiMEixQ7nYZOhy?usp=sharing)
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 24-06-2026 09:50:04 zona horaria UTC-03:00
+Última actualización pública: 29-06-2026 17:55:55 zona horaria UTC-03:00
