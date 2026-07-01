@@ -9,6 +9,8 @@
 
 ## Nuevo update:
 ### Ya está la bitácora actualizada al 11 de junio con exámenes de fin de cuatrimestre.
+
+### Link al [drive](https://drive.google.com/drive/folders/1fgqM9qN2olv-4yMJTRVFQz2gjG24TMrl?usp=sharing)
 ### Links Colab:
 - [miércoles 8 abril](https://drive.google.com/file/d/1B6aywW4qvZTvfVi9QRzzHX4yUtB5tsdx/view?usp=sharing)
 - [lunes 20 de abril ](https://colab.research.google.com/drive/1CFsSLTBaE-BwKtkG9i7CRil9Myoh8N7v?usp=sharing)
@@ -19,4 +21,4 @@
 - [lunes 29 de junio](https://colab.research.google.com/drive/1HF0_L6kQ45OebvxKymXPmCW3F9UvimBf?usp=sharing)
 ### [Este repositorio se actualiza constantemente]
 
-Última actualización pública: 01-07-2026 09:32:55 zona horaria UTC-03:00
+Última actualización pública: 01-07-2026 10:03:46 zona horaria UTC-03:00
